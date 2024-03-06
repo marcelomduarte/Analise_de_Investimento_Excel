@@ -4,9 +4,9 @@
 
 ![image](https://github.com/marcelomduarte/analise_de_investimento_excel/assets/115512260/0dab77e1-1b01-4791-be1a-909b8a9cad10)
 
-## Modelagem 
+## Modelagem
 
-![image](https://github.com/marcelomduarte/analise_de_investimento_excel/assets/115512260/3eccce24-a65e-492e-bc56-e9cfc2710cd4)
+![image](https://github.com/marcelomduarte/analise_de_investimento_excel/assets/115512260/42f45de3-b61f-4686-84e1-06a702cf1c46)
 
 ### Questão 1
 
